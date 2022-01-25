@@ -1,14 +1,9 @@
 import React from "react";
 import { Container, Row, Card, CardGroup, Button } from "react-bootstrap";
 
-const wrapper = {
-  width: "100%",
-  height: "93vh",
-};
-
 const Member = () => {
   return (
-    <div style={wrapper}>
+    <div>
       <Container>
         <Row>
           <CardGroup>

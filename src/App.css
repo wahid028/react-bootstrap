@@ -28,6 +28,16 @@
   color: #61dafb;
 }
 
+.BgImg {
+  text-align: center;
+  background-image: url("https://unsplash.com/photos/jwyO3NhPZKQ");
+  position: fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
